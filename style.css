@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #555;
+    color: white;
+    text-align: center;
+    padding: 1em;
+  }
+  
+  form {
+    margin-bottom: 1em;
+  }
+  
+  form input {
+    margin-right: 0.5em;
+    padding: 0.5em;
+  }
+  
+  form button {
+    padding: 0.5em 1em;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    padding: 0.5em;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  footer {
+    margin-top: 1em;
+    text-align: right;
+    padding: 1em;
+  }
+  
+  .over-budget {
+    color: red;
+  }
